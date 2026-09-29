@@ -25,8 +25,7 @@ Aplicación móvil desarrollada en **Android con Kotlin y Jetpack Compose**, ins
   - Validación de estado de `ACCESS_FINE_LOCATION` y `ACCESS_COARSE_LOCATION` previo al consumo de la API/servicio.
   - Hoja modal interactiva (`ModalBottomSheet`) con feedback visual que orienta al usuario para activar su ubicación.
   - Disparo reactivo del launcher del sistema (`ActivityResultContracts.RequestMultiplePermissions`).
-- **Autenticación Biométrica (Paso 2):**
-  - Guía visual interactiva de iluminación con carrusel de recomendaciones antes de la captura.
+
 - **Diseño Moderno:** Interfaz basada en componentes de **Material 3**, barras de progreso adaptables y estructura limpia de layouts.
 
 ---
