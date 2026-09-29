@@ -8,7 +8,7 @@ Aplicación móvil desarrollada en **Android con Kotlin y Jetpack Compose**, ins
 
 | Paso 1: Datos Personales | Paso 1: Con Complemento | Bottom Sheet: Ubicación | Diálogo de Permisos | Paso 2: Autenticación |
 | :---: | :---: | :---: | :---: | :---: |
-| <img src="1_apk.jpeg" width="180"/> | <img src="2_apk.jpeg" width="180"/> | <img src="3_apk.jpeg" width="180"/> | 
+| <img src="1_apk.jpeg" width="180"/> | <img src="2_apk.jpeg" width="180"/> | <img src="3_apk.jpeg" width="180"/> | <img src="4_apk.jpeg" width="180"/> |
 
 > **Nota:** Guarda tus imágenes dentro de una carpeta llamada `screenshots/` en la raíz del repositorio con los nombres indicados arriba (o actualiza las rutas según corresponda).
 
